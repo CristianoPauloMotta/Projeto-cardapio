@@ -1,0 +1,29 @@
+bode {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: crimson;
+}
+header{
+    background-color: rgb(78, 77, 77);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1rem 0;
+}
+nav ul {
+    list-style: name;
+    padding: 0;
+    margin: 0;
+    background-color: #222222;
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    margin: 0 1rem;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+    display: block;
+}
